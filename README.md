@@ -159,7 +159,7 @@ vs. SCATS/SCOOT: ₹40 Lakhs setup + ₹8L/year/junction maintenance.
 
 ## 👥 Team
 
-**Team Name:** [Your Team Name]  
+**Team Name:** [Bug Bursters]  
 **Category:** Cyber-Physical Systems  
 **Problem:** Intelligent Traffic Orchestration  
 **Event:** DAKSH AI Hackathon 2026, March 13–15 | SASTRA University
